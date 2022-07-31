@@ -1,0 +1,12 @@
+@media (max-width: 480px) {
+    .banner img{
+        width: 350px;
+    }
+    .banner h3{
+        
+        font-size: 20px;
+    }
+    .banner p{
+        font-size: 15px;
+    }
+}
